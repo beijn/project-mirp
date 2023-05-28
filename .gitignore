@@ -1,1 +1,5 @@
-/tmp/
+/scratch/
+/cache/
+
+COMMIT
+**/__pycache__/
