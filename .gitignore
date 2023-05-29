@@ -3,3 +3,6 @@
 
 COMMIT
 **/__pycache__/
+
+/music/
+/render/
