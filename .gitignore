@@ -1,8 +1,8 @@
-/scratch/
-/cache/
 
-COMMIT
 **/__pycache__/
+**/.ipynb_checkpoints/
+
+/cache/
 
 /music/
 /render/
